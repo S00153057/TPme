@@ -1,0 +1,77 @@
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\ApplicationInsights.config
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\csc.exe
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\System.Collections.Immutable.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\System.Reflection.Metadata.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\vbc.exe
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\VBCSCompiler.exe
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\roslyn\VBCSCompiler.exe.config
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Tpme.dll.config
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Tpme.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Tpme.pdb
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.DependencyCollector.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.Web.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.WindowsServer.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.ApplicationInsights.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.DependencyCollector.xml
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.Web.xml
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.AI.WindowsServer.xml
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.ApplicationInsights.xml
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\obj\Debug\Tpme.dll
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\obj\Debug\Tpme.pdb
+H:\Year 3\Web Programming 3\Project\Tpme\Tpme\obj\Debug\Tpme.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\obj\Debug\Tpme.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\obj\Debug\Tpme.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\obj\Debug\Tpme.pdb
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\ApplicationInsights.config
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\csc.exe
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\vbc.exe
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Tpme.dll.config
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Tpme.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Tpme.pdb
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.Web.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.Owin.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Newtonsoft.Json.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Owin.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\System.Net.Http.Formatting.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\System.Web.Http.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\System.Web.Http.Owin.dll
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.Web.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Microsoft.Owin.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\Newtonsoft.Json.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\System.Net.Http.Formatting.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\System.Web.Http.xml
+C:\Users\Arturs\Desktop\More Project\Tpme\Tpme\bin\System.Web.Http.Owin.xml
