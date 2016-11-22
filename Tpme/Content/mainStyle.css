@@ -2,6 +2,7 @@
 body {
     background-color: #3f3f3f;
     font-family:'Dosis', sans-serif;
+    height: 100%;
 }
 
 
@@ -41,6 +42,30 @@ body {
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: white;
+}
+
+/*Footer Changes*/
+.footer{
+    margin-top: 5em;
+    background-color: #54428E;
+}
+.footer .col-sm-6{
+
+    
+}
+.links{
+}
+.links li{
+    list-style-type: none;
+}
+.links li a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3em;
+}
+.links li a:active,
+.links li a:hover{
+    color: #8963BA;
 }
 
 /* HomepageChanges */
@@ -137,11 +162,34 @@ and (max-width : 360px) {
     .ui-menu-item{
         font-size: 0.7em;
     }
+    .links li a{
+        font-size: 0.8em;
+        text-align:center;
+        margin: 0.1em;
+    }
+}
+@media only screen
+and (max-width : 750px)
+{   
+      .links{
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+        
+    }
+     .links li{
+        display: inline-block;
+        
+    }
+    .links li a{
+        text-align:center;
+        margin: 0.1em;
+    }
 }
 @media only screen
 and (min-device-width : 768px)
 and (max-device-width : 1024px) {
-/* STYLES GO HERE */
+   
 }
 /* Desktops and laptops ----------- */
 @media only screen
